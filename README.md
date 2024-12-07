@@ -38,7 +38,5 @@ Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berba
 
 # ✍️ Motivasi
 <div align="center">
-  <blockquote>
     <p><em><b>"Hidup ini seperti kode program: saat ada error, debug, perbaiki, dan terus jalankan. Jangan pernah berhenti sampai tujuanmu tercapai!"</b></em></p>
-  </blockquote>
 </div>
