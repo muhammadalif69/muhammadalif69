@@ -4,9 +4,10 @@
 </div>
 
 # 👨‍💻 Tentang
-Halo! Nama saya Muhammad Alif, mahasiswa yang bersemangat dari Politeknik Negeri Lhokseumawe, lahir di Lhokseumawe pada 2 Juni 2004. Saya seorang penggemar teknologi yang selalu bersemangat mengeksplorasi dunia komputer, mulai dari pemrograman hingga desain digital. Sejak kecil, saya telah jatuh cinta dengan cara kerja perangkat lunak dan bagaimana mereka bisa mengubah dunia.
+Nama saya Muhammad Alif, seorang mahasiswa dari Politeknik Negeri Lhokseumawe, lahir di Lhokseumawe pada 2 Juni 2004. Sejak kecil, saya memiliki ketertarikan mendalam terhadap dunia teknologi, khususnya dalam hal cara kerja perangkat lunak dan dampaknya terhadap berbagai aspek kehidupan. Ketertarikan ini membawa saya untuk mendalami bidang pemrograman dan desain digital.
 
-Sebagai seorang programmer, saya tidak hanya berfokus pada menulis kode, tetapi juga menciptakan solusi kreatif yang bisa mempermudah hidup. Dunia komputer adalah arena tanpa batasan, dan saya bertekad untuk terus berkembang, belajar, dan menghadapi tantangan baru. Seperti yang saya yakini, hidup ini seperti kode program setiap masalah punya solusi, kita hanya perlu 'debug' dan terus berjalan menuju tujuan!
+
+Sebagai seorang programmer, saya tidak hanya berfokus pada pengembangan kode, tetapi juga berkomitmen untuk menciptakan solusi-solusi inovatif yang tidak hanya efisien, tetapi juga mampu memberikan manfaat praktis dalam kehidupan sehari-hari. Saya melihat dunia komputer sebagai sebuah arena yang tak terbatas, di mana kreativitas dan logika bersatu untuk menghasilkan produk yang berdampak. Setiap tantangan yang saya hadapi adalah kesempatan untuk belajar dan berkembang lebih lanjut. Saya percaya bahwa dalam dunia pemrograman, setiap masalah pasti memiliki solusi, dan melalui proses debugging, kita dapat menemukan jalan untuk terus maju menuju tujuan yang lebih besar.
 
 # 🎯 Hobi
 Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berbagai aktivitas yang membantu menjaga keseimbangan hidup saya. Hobi-hobi ini tidak hanya memberikan saya hiburan, tetapi juga menjadi sumber inspirasi dan energi yang penting dalam kehidupan sehari-hari.
