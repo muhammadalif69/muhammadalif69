@@ -1,5 +1,6 @@
 # 👨‍💻 Tentang Saya
 Halo! Nama saya Muhammad Alif, mahasiswa yang bersemangat dari Politeknik Negeri Lhokseumawe, lahir di Lhokseumawe pada 2 Juni 2004. Saya seorang penggemar teknologi yang selalu bersemangat mengeksplorasi dunia komputer, mulai dari pemrograman hingga desain digital. Sejak kecil, saya telah jatuh cinta dengan cara kerja perangkat lunak dan bagaimana mereka bisa mengubah dunia.
+
 Sebagai seorang programmer, saya tidak hanya berfokus pada menulis kode, tetapi juga menciptakan solusi kreatif yang bisa mempermudah hidup. Dunia komputer adalah arena tanpa batasan, dan saya bertekad untuk terus berkembang, belajar, dan menghadapi tantangan baru. Seperti yang saya yakini, hidup ini seperti kode program setiap masalah punya solusi, kita hanya perlu 'debug' dan terus berjalan menuju tujuan!
 
 # 🎯 Hobi Saya
