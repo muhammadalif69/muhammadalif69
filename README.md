@@ -4,10 +4,10 @@
 </div>
 
 # 👨‍💻 Tentang
-Nama saya Muhammad Alif, seorang mahasiswa dari Politeknik Negeri Lhokseumawe, lahir di Lhokseumawe pada 2 Juni 2004. Sejak kecil, saya memiliki ketertarikan mendalam terhadap dunia teknologi, khususnya dalam hal cara kerja perangkat lunak dan dampaknya terhadap berbagai aspek kehidupan. Ketertarikan ini membawa saya untuk mendalami bidang pemrograman dan desain digital.
+My name is Muhammad Alif, a student from Politeknik Negeri Lhokseumawe, born in Lhokseumawe on June 2, 2004. Since I was young, I have been deeply interested in technology, especially in how software works and its impact on our daily lives. This interest led me to study programming and digital design.
 
 
-Sebagai seorang programmer, saya tidak hanya berfokus pada pengembangan kode, tetapi juga berkomitmen untuk menciptakan solusi-solusi inovatif yang tidak hanya efisien, tetapi juga mampu memberikan manfaat praktis dalam kehidupan sehari-hari. Saya melihat dunia komputer sebagai sebuah arena yang tak terbatas, di mana kreativitas dan logika bersatu untuk menghasilkan produk yang berdampak. Setiap tantangan yang saya hadapi adalah kesempatan untuk belajar dan berkembang lebih lanjut. Saya percaya bahwa dalam dunia pemrograman, setiap masalah pasti memiliki solusi, dan melalui proses debugging, kita dapat menemukan jalan untuk terus maju menuju tujuan yang lebih besar.
+As a programmer, I don't just focus on writing code; I am also committed to creating innovative solutions that are efficient and practical. I see the world of computers as a limitless space where creativity and logic come together to produce meaningful products. Every challenge I face is an opportunity to learn and improve. I believe that in programming, every problem has a solution, and by debugging, we can find ways to keep moving toward our goals.
 
 # 🎯 Hobi
 Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berbagai aktivitas yang membantu menjaga keseimbangan hidup saya. Hobi-hobi ini tidak hanya memberikan saya hiburan, tetapi juga menjadi sumber inspirasi dan energi yang penting dalam kehidupan sehari-hari.
