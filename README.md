@@ -1,10 +1,6 @@
 # 👨‍💻 Tentang Saya
 Halo! Nama saya Muhammad Alif, mahasiswa yang bersemangat dari POLITEKNIK NEGERI LHOKSEUMAWE, lahir di Lhokseumawe pada 2 Juni 2004. Saya seorang penggemar teknologi yang selalu bersemangat mengeksplorasi dunia komputer, mulai dari pemrograman hingga desain digital. Sejak kecil, saya telah jatuh cinta dengan cara kerja perangkat lunak dan bagaimana mereka bisa mengubah dunia. Sebagai seorang programmer, saya tidak hanya berfokus pada menulis kode, tetapi juga menciptakan solusi kreatif yang bisa mempermudah hidup. Dunia komputer adalah arena tanpa batasan, dan saya bertekad untuk terus berkembang, belajar, dan menghadapi tantangan baru. Seperti yang saya yakini, hidup ini seperti kode program—setiap masalah punya solusi, kita hanya perlu 'debug' dan terus berjalan menuju tujuan!
 
-
-
-
-
 # 🎯 Hobi Saya
 Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berbagai aktivitas yang membantu menjaga keseimbangan hidup saya. Hobi-hobi ini tidak hanya memberikan saya hiburan, tetapi juga menjadi sumber inspirasi dan energi yang penting dalam kehidupan sehari-hari.
 
@@ -14,18 +10,10 @@ Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berba
 
 🏀 **Olahraga**: Olahraga menjaga tubuh tetap bugar dan memberikan keseimbangan dalam hidup.
 
-
-
-
-
 # 🌐 Media Sosial
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/muhmmdlif/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadalif69/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@muhammadalif69)  
-
-
-
-
 
 # 💻 Keahlian
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,14 +28,12 @@ Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berba
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-
 # 📊 Statistik GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalif69&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=radical&show_icons=true&hide_border=true&count_private=true" width="300" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=radical&hide_border=false" width="300" />
 </div>
-
 
 # ✍️ Motivasi
 <div align="center">
