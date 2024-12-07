@@ -31,7 +31,7 @@ Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berba
 
 # 📊 Statistik GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalif69&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=merko&show_icons=true&hide_border=true&count_private=true" width="300" />
     <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=radical&show_icons=true&hide_border=true&count_private=true" width="300" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=radical&hide_border=false" width="300" />
 </div>
