@@ -6,9 +6,11 @@ Halo! Nama saya Muhammad Alif, mahasiswa yang bersemangat dari POLITEKNIK NEGERI
 # 🎯 Hobi Saya
 Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berbagai aktivitas yang membantu menjaga keseimbangan hidup saya. Hobi-hobi ini tidak hanya memberikan saya hiburan, tetapi juga menjadi sumber inspirasi dan energi yang penting dalam kehidupan sehari-hari.
 
-💻 Coding: Menulis kode adalah tantangan yang saya nikmati setiap hari, menciptakan solusi baru lewat teknologi.
-🎶 Music: Musik memberi saya energi dan inspirasi, menemani setiap aktivitas.
-🏀 Olahraga: Olahraga menjaga tubuh tetap bugar dan memberikan keseimbangan dalam hidup.
+💻 **Coding**: Menulis kode adalah tantangan yang saya nikmati setiap hari, menciptakan solusi baru lewat teknologi.
+
+🎶 **Music**: Musik memberi saya energi dan inspirasi, menemani setiap aktivitas.
+
+🏀 **Olahraga**: Olahraga menjaga tubuh tetap bugar dan memberikan keseimbangan dalam hidup.
 
 
 
