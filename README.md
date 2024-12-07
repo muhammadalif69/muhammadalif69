@@ -31,9 +31,9 @@ Selain berfokus pada dunia teknologi dan pengembangan, saya juga menikmati berba
 
 # 📊 Statistik GitHub
 <div align="absolust">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=merko&show_icons=true&hide_border=true&count_private=true" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=merko&hide_border=true" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalif69&theme=merko&show_icons=true&hide_border=true&layout=compact" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=merko&show_icons=true&hide_border=true&count_private=true" width="33%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=merko&hide_border=true" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalif69&theme=merko&show_icons=true&hide_border=true&layout=compact" width="33%"/>
 </div>
 
 # ✍️ Motivasi
