@@ -14,9 +14,9 @@ Besides focusing on technology and development, I also enjoy various activities 
 
 💻 Coding: Writing code is a challenge I enjoy every day, creating new solutions through technology.
 
-🎶 Music: Music provides me with energy and inspiration, accompanying me in every activity.
+🎸 Music: Music provides me with energy and inspiration, accompanying me in every activity.
 
-🏀 Sports: Sports keep my body fit and provide balance in my life.
+⚽ Sports: Sports keep my body fit and provide balance in my life.
 
 # 🌐 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/muhmmdlif/)
