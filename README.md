@@ -41,7 +41,7 @@ Besides focusing on technology and development, I also enjoy various activities 
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="350px" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=midnight-purple&hide_border=true" width="350px" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="350px" height="160px"/>
+  <img src=https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true width="300px"/>
+  <img src=https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=midnight-purple&hide_border=true width="318px"/>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact width="229px"/>
 </div>
