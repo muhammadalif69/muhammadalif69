@@ -19,9 +19,11 @@ Besides focusing on technology and development, I also enjoy various activities 
 ⚽ Sports: Sports keep my body fit and provide balance in my life.
 
 # 🌐 Social Media
+<div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/muhmmdlif/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadalif69/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@muhammadalif_69)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@muhammadalif_69)
+</div>
 
 # 💻 Skills
 <div align="center">
