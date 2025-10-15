@@ -87,17 +87,17 @@ Outside of programming, I enjoy activities that keep me balanced and inspired:
 
 ---
 
-# 📫 Contact Me
+# 📫 Contact Me  
 
 <p align="center">
-  📧 <a href="mailto:62.muhammadalif@gmail.com" style="text-decoration:none;">62.muhammadalif@gmail.com</a><br>
-  🌍 <a href="https://github.com/muhammadalif69" style="text-decoration:none;">github.com/muhammadalif69</a><br>
-  💼 <i>Let’s connect and build something amazing together!</i>
+  📧 <a href="mailto:62.muhammadalif@gmail.com" style="text-decoration:none; color:#8be9fd;">62.muhammadalif@gmail.com</a><br>
+  🌍 <a href="https://github.com/muhammadalif69" style="text-decoration:none; color:#bd93f9;">github.com/muhammadalif69</a><br><br>
+  💼 <i>Let's connect and build something amazing together!</i>
 </p>
 
 ---
 
 <div align="center">
   <i>“Code is like art — the more you practice, the more beautiful it becomes.”</i><br>
-  💻✨
+  <b>💻✨ Keep Learning. Keep Building. Keep Inspiring. ✨💻</b>
 </div>
