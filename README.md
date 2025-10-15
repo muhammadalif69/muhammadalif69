@@ -61,7 +61,7 @@ Outside of programming, I enjoy activities that keep me balanced and inspired:
 
 <div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="160px"/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=midnight-purple&hide_border=true" height="160px"/>
 </p>
 
