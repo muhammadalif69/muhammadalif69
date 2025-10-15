@@ -60,14 +60,15 @@ Outside of programming, I enjoy activities that keep me balanced and inspired:
 # 📊 GitHub Stats
 
 <div align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="160px"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=midnight-purple&hide_border=true" height="160px"/>
-</p>
+<div align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="400px" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalif69&theme=midnight-purple&hide_border=true" width="400px" height="150px"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="160px"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalif69&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width="820px" height="150px"/>
+</div>
+
 </div>
 
 ---
